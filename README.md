@@ -26,7 +26,6 @@ cd Pipex
 ## Compile the project
 How to Run
 The program takes 4 arguments:
-bash```
-
+```bash
 ./pipex file1 "command1" "command2" file2
 ```
