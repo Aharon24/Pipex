@@ -23,15 +23,13 @@ This project reproduces a basic Unix shell mechanism — pipes — by simulating
 git clone https://github.com/Aharon24/Pipex.git
 cd Pipex
 ```
-
-##Compile the project
+## Compile the project
 How to Run
 The program takes 4 arguments:
 ```bash
 ./pipex file1 "command1" "command2" file2
 ```
-
-##Equivalent shell command:
+## Equivalent shell command:
 ```bash
 < infile grep pattern | sort > outfile
 ```
