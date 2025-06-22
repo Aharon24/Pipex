@@ -23,6 +23,7 @@ This project reproduces a basic Unix shell mechanism — pipes — by simulating
 git clone https://github.com/Aharon24/Pipex.git
 cd Pipex
 ```
+
 ##Compile the project
 How to Run
 The program takes 4 arguments:
