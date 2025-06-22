@@ -16,20 +16,16 @@ This project reproduces a basic Unix shell mechanism — pipes — by simulating
 
 ```bash
 ./pipex file1 cmd1 cmd2 file2
-
+```
 ## How to Download and Compile
-Clone the repository
-bash
-Копировать
-Редактировать
+  Clone the repository
+```bash
 git clone https://github.com/Aharon24/Pipex.git
 cd Pipex
-
+```
 ## Compile the project
 How to Run
 The program takes 4 arguments:
-bash
-Копировать
-Редактировать
+bash```
 ./pipex file1 "command1" "command2" file2
-
+```
