@@ -29,3 +29,7 @@ The program takes 4 arguments:
 ```bash
 ./pipex file1 "command1" "command2" file2
 ```
+##Equivalent shell command:
+```bash
+< infile grep pattern | sort > outfile
+```
